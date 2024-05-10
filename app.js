@@ -1,0 +1,21 @@
+var username;
+var myName = "Your Full Name";
+var message;
+message = "Hello World";
+alert(message);
+var studentName = "John Doe";
+var age = "15 years old";
+var course = "Certified Mobile Application Development ";
+alert(studentName);
+alert(age);
+alert(course);
+var alertMessage = "PIZZA\nPIZZ\nPIZ\nPI\nP" ;
+alert(alertMessage);
+var email = "example@example.com";
+alert("My email address is: " + email);
+var book = "A smarter way to learn JavaScript";
+alert("I am trying to learn from  the book . " + book);
+document.write("Yah! I can write HTML content through JavaScript");
+var specialChars = "▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬";
+alert(specialChars);
+
